@@ -9,5 +9,13 @@ para el manejo de variables, procesos y memoria en el contexto en el desarrollo 
 ### Consideraciones:
 
 <p align="justify">
+Esta practica sera desarrollada para estructura de ramales para el estudiante comience con la manipulacion correcta de ramas en el 
+contexto de control de versiones  y  desarrollo colaborativoutilizando Git Y GitHub 
+</p>
 
 
+### Tabla de Ejercisios
+
+|No.|Descripción|Potenciador|Estatus|
+| --- | --- | --- | ---|
+|1.|Declaracion de variables| 1 |🖥️ En progreso |
