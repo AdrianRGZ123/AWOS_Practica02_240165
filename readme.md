@@ -19,3 +19,4 @@ contexto de control de versiones  y  desarrollo colaborativoutilizando Git Y Git
 |No.|Descripción|Potenciador|Estatus|
 | --- | --- | --- | ---|
 |1.|Declaracion de variables| 1 |🖥️ En progreso |
+|2.|Tipos de Datos| 8 |🖥️ En progreso |
